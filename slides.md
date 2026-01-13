@@ -154,7 +154,7 @@ background: https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=
 # The Hidden Cost: Memory Crisis
 
 - HBM uses **3x wafer capacity** vs DDR5 — shortage until 2027+
-- DDR5 64GB: $150 → **$750** (May–Dec 2025)
+- DDR5 64GB: $210 → **$750** (May–Dec 2025)
 - **Crucial killed** after 29 years — Micron exits consumer market
 - Micron CEO: Can only meet **50-66%** of demand
 - Dell/Lenovo hiking PC prices **15-20%**

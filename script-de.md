@@ -14,7 +14,7 @@ Willkommen zu meiner Präsentation über Künstliche Intelligenz im Jahr 2025 �
 
 Hier seht ihr eine Übersicht der wichtigsten KI-Modelle, die 2025 veröffentlicht wurden.
 
-Es begann im Januar mit DeepSeek R1 aus China. Im Mai kam Googles Veo 3 für Videogenerierung. Juli brachte uns Grok 4 von Elon Musks xAI. Im August erschien das lang erwartete GPT-5 von OpenAI.
+Es begann im Januar mit DeepSeek R1 aus China. Im Mai kam Googles Veo 3 für Videogenerierung. Juli brachte uns Grok 4 von Elon Musks (EE-lon Musk) xAI. Im August erschien das lang erwartete GPT-5 von OpenAI.
 
 Aber der Wahnsinn kam im November: Innerhalb von nur sechs Tagen wurden vier große Modelle veröffentlicht — GPT-5.1, Gemini 3, Claude 4.5 und Grok 4.1. So einen Wettbewerb gab es noch nie.
 
@@ -30,11 +30,11 @@ Der H800 ist übrigens ein Mittelklasse-Chip, den Nvidia speziell entwickelt hat
 
 Die technische Innovation war beeindruckend: Sie verwendeten reines Reinforcement Learning mit einer Methode namens "Group Relative Policy Optimization". Das KI-Modell lernt durch Versuch und Irrtum — es bekommt eine Belohnung, wenn es die richtige Antwort findet, anstatt von Menschen beigebracht zu bekommen. Keine menschlich gelabelten Daten nötig.
 
-Die API-Nutzung kostet 20- bis 50-mal weniger als bei OpenAI. Sam Altman selbst nannte das Modell "beeindruckend, besonders was sie für den Preis liefern können".
+Die API-Nutzung kostet 20- bis 50-mal weniger als bei OpenAI. Sam Altman (Sam AWLT-man) selbst nannte das Modell "beeindruckend, besonders was sie für den Preis liefern können".
 
 Innerhalb einer Woche war DeepSeek die meistgeladene App im iOS App Store — und verdrängte ChatGPT vom ersten Platz.
 
-Marc Andreessen, der legendäre Tech-Investor, nannte es "AI's Sputnik Moment" — ein Vergleich mit dem sowjetischen Satelliten, der Amerika 1957 schockierte und das Weltraumrennen auslöste.
+Marc Andreessen (Mark an-DREE-sen), der legendäre Tech-Investor, nannte es "AI's Sputnik Moment" — ein Vergleich mit dem sowjetischen Satelliten, der Amerika 1957 schockierte und das Weltraumrennen auslöste.
 
 Die Reaktion der Börse war brutal: Am 27. Januar verlor Nvidia 17% — das sind 589 Milliarden Dollar an einem einzigen Tag. Der größte Tagesverlust eines Unternehmens in der Geschichte. Broadcom fiel ebenfalls 17%, AMD 6%, der Philadelphia Semiconductor Index 9,2% — der größte Einbruch seit März 2020.
 
@@ -48,7 +48,7 @@ Aber hier ist das Interessante: Elf Monate später hatten sich alle Aktien nicht
 
 Nur einen Tag nach dem DeepSeek-Schock kam die amerikanische Antwort: Project Stargate.
 
-Präsident Trump höchstpersönlich kündigte das Projekt im Weißen Haus an — zusammen mit Sam Altman von OpenAI, Masayoshi Son von SoftBank und Larry Ellison von Oracle. Trump nannte es "das größte KI-Infrastrukturprojekt der Geschichte".
+Präsident Trump höchstpersönlich kündigte das Projekt im Weißen Haus an — zusammen mit Sam Altman von OpenAI, Masayoshi Son (ma-sa-YO-shi Son) von SoftBank und Larry Ellison (Larry EL-i-son) von Oracle. Trump nannte es "das größte KI-Infrastrukturprojekt der Geschichte".
 
 Das ist ein Joint Venture zwischen OpenAI, SoftBank, Oracle und MGX — einem Investmentfonds aus den Vereinigten Arabischen Emiraten. SoftBank übernimmt die finanzielle Verantwortung, OpenAI die operative. Masayoshi Son wird Vorstandsvorsitzender.
 
@@ -56,7 +56,7 @@ Das ist ein Joint Venture zwischen OpenAI, SoftBank, Oracle und MGX — einem In
 
 Das Ziel? Die Infrastruktur für AGI — Artificial General Intelligence — zu schaffen. Masayoshi Son sagte: "AGI kommt sehr, sehr bald. Und danach kommt künstliche Superintelligenz, die Probleme lösen wird, von denen die Menschheit nie gedacht hätte, dass wir sie lösen könnten."
 
-Das erste Rechenzentrum in Abilene, Texas, ist bereits in Betrieb — Ende 2025, also schneller als erwartet. Es umfasst 8 Gebäude und wird als "weltgrößter KI-Supercluster" bezeichnet. Dort arbeiten Hunderttausende von Nvidia GB200 GPUs und verbrauchen 900 Megawatt Strom — genug für etwa 700.000 Haushalte.
+Das erste Rechenzentrum in Abilene (AB-i-leen), Texas, ist bereits in Betrieb — Ende 2025, also schneller als erwartet. Es umfasst 8 Gebäude und wird als "weltgrößter KI-Supercluster" bezeichnet. Dort arbeiten Hunderttausende von Nvidia GB200 GPUs und verbrauchen 900 Megawatt Strom — genug für etwa 700.000 Haushalte.
 
 Im September 2025 wurden fünf weitere Standorte angekündigt: in New Mexico, Ohio und weiteren Teilen von Texas. Insgesamt sind fast 7 Gigawatt Kapazität geplant.
 
@@ -76,13 +76,13 @@ Die Benchmark-Ergebnisse sind beeindruckend: 88% bei GPQA Diamond — einem Wiss
 
 Das Modell hat etwa 1,7 Billionen Parameter und wurde mit 100-mal mehr Rechenleistung trainiert als Grok 2.
 
-Grok 4 wurde auf "Colossus" trainiert — einem Supercomputer in Memphis, Tennessee. Die Geschichte von Colossus ist beeindruckend: xAI baute ihn in nur 122 Tagen in einer ehemaligen Electrolux-Fabrik. Dann verdoppelten sie ihn in weiteren 92 Tagen auf 200.000 GPUs — 150.000 H100, 50.000 H200 und 30.000 GB200 Chips.
+Grok 4 wurde auf "Colossus" (ko-LOSS-us) trainiert — einem Supercomputer in Memphis (MEM-fis), Tennessee (ten-eh-SEE). Die Geschichte von Colossus ist beeindruckend: xAI baute ihn in nur 122 Tagen in einer ehemaligen Electrolux-Fabrik. Dann verdoppelten sie ihn in weiteren 92 Tagen auf 200.000 GPUs — 150.000 H100 und 50.000 H200. Später kamen noch 30.000 GB200 Blackwell-Chips dazu, sodass das System heute über 230.000 GPUs hat.
 
 Das Stromnetz von Memphis konnte den Bedarf von 300 bis 420 Megawatt nicht decken. Also stellte xAI über 35 mobile Erdgasturbinen auf und ergänzte sie mit einem 150-Megawatt Tesla Megapack-Batteriesystem. Die Pläne gehen noch weiter: Bis Ende 2026 wollen sie auf 1 Million GPUs skalieren.
 
 Die "Heavy"-Variante ist besonders interessant: Sie lässt fünf KI-Agenten parallel arbeiten, die aus verschiedenen Blickwinkeln analysieren und ihre Ergebnisse vergleichen. Dadurch werden Denkfehler erkannt, die einem einzelnen Modell entgehen würden. Bei "Humanity's Last Exam" — einem extrem schwierigen Test — erreichte Grok 4 Heavy 44,4%. Das kostet allerdings: 300 Dollar im Monat für das SuperGrok Heavy Abo.
 
-Dann gab es die kontroversen "AI Companions": Ani, eine 22-jährige blonde Anime-Freundin, die sich auf Befehl ausziehen konnte. Bad Rudy, ein roter Panda, der Nutzer mit vulgärer Sprache beschimpfte und von Banküberfällen fantasierte. Und Valentine, ein männlicher Charakter inspiriert von Edward Cullen aus Twilight.
+Dann gab es die kontroversen "AI Companions": Ani, eine 22-jährige blonde Anime-Freundin, die sich auf Befehl ausziehen konnte. Bad Rudy, ein roter Panda, der Nutzer mit vulgärer Sprache beschimpfte und von Banküberfällen fantasierte. Und Valentine (VAL-en-tine), ein männlicher Charakter inspiriert von Edward Cullen (ED-ward CUL-len) aus Twilight (TWY-light).
 
 Die Reaktion war vorhersehbar: Das National Center on Sexual Exploitation warnte, dass 12-Jährige die App herunterladen können. Ein Mitarbeiter brachte Ani dazu, sich als Kind zu beschreiben und sexuelle Inhalte zu generieren. Nach massiver Kritik wurden Ani und Bad Rudy entfernt und durch eine zahme "Good Rudi" Version ersetzt.
 
@@ -174,7 +174,7 @@ Die Zahlen sind beeindruckend: 97 Millionen monatliche SDK-Downloads, über 10.0
 
 2025 war das Jahr, in dem KI-Videogenerierung wirklich brauchbar wurde.
 
-Am 30. September veröffentlichte OpenAI Sora 2 — sie nannten es "den GPT-3.5-Moment für Video". Pro-Nutzer können Videos bis zu 20 Sekunden in 1080p erstellen. Die revolutionäre "Cameo"-Funktion erlaubt es, sich selbst, seine Katze, ein Plüschtier oder einen erfundenen Charakter in jede generierte Szene einzufügen — mit akkurater Darstellung von Aussehen und Stimme.
+Am 30. September veröffentlichte OpenAI Sora 2 — sie nannten es "den GPT-3.5-Moment für Video". Pro-Nutzer können Videos bis zu 20 Sekunden lang in 1080p erstellen. Die revolutionäre "Cameo"-Funktion erlaubt es, sich selbst, seine Katze, ein Plüschtier oder einen erfundenen Charakter in jede generierte Szene einzufügen — mit akkurater Darstellung von Aussehen und Stimme.
 
 Besonders beeindruckend: Die Physik wurde deutlich verbessert. Früher teleportierte sich ein Basketball wie von Zauberhand in den Korb, wenn ein Spieler danebenwarf. Jetzt prallt er realistisch vom Brett ab. Sora 2 modelliert implizit einen internen Agenten, dessen "Fehler" wie echte menschliche Fehler aussehen.
 
@@ -210,13 +210,13 @@ Und dann kam AlphaGenome von DeepMind: Nur etwa 2% des menschlichen Genoms kodie
 
 2024 erhielt KI erstmals Nobelpreise — zwei in zwei Tagen. Das hatte es noch nie gegeben.
 
-Am 8. Oktober wurde der Physik-Nobelpreis an Geoffrey Hinton und John Hopfield vergeben "für grundlegende Entdeckungen und Erfindungen, die maschinelles Lernen mit künstlichen neuronalen Netzen ermöglichen." John Hopfield, geboren 1933 in Chicago, entwickelte in den 1980er Jahren das Hopfield-Netzwerk — ein assoziatives Gedächtnis, das Muster speichern und rekonstruieren kann. Er nutzte Konzepte aus der Physik der Materialwissenschaften, speziell die Energie in Spin-Systemen.
+Am 8. Oktober wurde der Physik-Nobelpreis an Geoffrey Hinton (JEF-ree HIN-ton) und John Hopfield (John HOP-feeld) vergeben "für grundlegende Entdeckungen und Erfindungen, die maschinelles Lernen mit künstlichen neuronalen Netzen ermöglichen." John Hopfield, geboren 1933 in Chicago (shi-KAH-go), entwickelte in den 1980er Jahren das Hopfield-Netzwerk — ein assoziatives Gedächtnis, das Muster speichern und rekonstruieren kann. Er nutzte Konzepte aus der Physik der Materialwissenschaften, speziell die Energie in Spin-Systemen.
 
 Geoffrey Hinton — der "Godfather of AI" — baute darauf auf und schuf 1983-85 die Boltzmann-Maschine mit Werkzeugen aus der statistischen Physik. Bei der Bekanntgabe sagte Hinton der Academy: "Ich bin völlig baff. Ich hatte keine Ahnung, dass das passieren würde."
 
-Das Besondere: Hinton ist erst die zweite Person in der Geschichte, die sowohl den Turing Award — den "Nobelpreis der Informatik" — als auch einen echten Nobelpreis gewonnen hat. Der erste war Herb Simon 1978.
+Das Besondere: Hinton ist erst die zweite Person in der Geschichte, die sowohl den Turing Award — den "Nobelpreis der Informatik" — als auch einen echten Nobelpreis gewonnen hat. Der erste war Herb Simon (Herb SY-mon) 1978.
 
-Einen Tag später, am 9. Oktober, folgte der Chemie-Nobelpreis. Die Hälfte ging an David Baker für das Design völlig neuer Proteinarten. Die andere Hälfte teilten sich Demis Hassabis und John Jumper von Google DeepMind für AlphaFold2 — die Lösung des 50 Jahre alten Proteinfaltungsproblems.
+Einen Tag später, am 9. Oktober, folgte der Chemie-Nobelpreis. Die Hälfte ging an David Baker (DAY-vid BAY-ker) für das Design völlig neuer Proteinarten. Die andere Hälfte teilten sich Demis Hassabis (DEM-is ha-SAH-bis) und John Jumper (John JUM-per) von Google DeepMind für AlphaFold2 — die Lösung des 50 Jahre alten Proteinfaltungsproblems.
 
 AlphaFold2 kann die Struktur praktisch aller 200 Millionen bekannten Proteine vorhersagen. Früher dauerte es Jahre, eine einzige Proteinstruktur zu bestimmen — wenn es überhaupt gelang. Jetzt geht es in Minuten. Mehr als zwei Millionen Forscher aus 190 Ländern haben AlphaFold2 bereits genutzt. Die Anwendungen: Antibiotikaresistenz verstehen, Enzyme entwickeln die Plastik zersetzen, neue Medikamente entdecken.
 
@@ -254,9 +254,9 @@ Die Zahlen zur Unternehmensadoption sind beeindruckend: Laut einer Google-Cloud-
 
 Gartner prognostiziert, dass bis 2028 15% aller täglichen Arbeitsentscheidungen von KI-Agenten getroffen werden könnten.
 
-Aber die sichtbarste Manifestation von KI-Agenten sind die Robotaxis. Waymo in den USA hat im Dezember 2025 über 450.000 Fahrten pro Woche absolviert — mit 2.500 Robotaxis in San Francisco, Phoenix, Austin, Los Angeles und Atlanta. Sie expandieren auf über 20 Städte, darunter Miami, Dallas, Houston und sogar London und Tokyo. Ziel: Eine Million Fahrten pro Woche bis Ende 2026.
+Aber die sichtbarste Manifestation von KI-Agenten sind die Robotaxis. Waymo in den USA hat im Dezember 2025 über 450.000 Fahrten pro Woche absolviert — mit 2.500 Robotaxis in San Francisco (San fran-SIS-ko), Phoenix (FEE-niks), Austin (AW-stin), Los Angeles (Loss AN-jel-ess) und Atlanta (at-LAN-ta). Sie expandieren auf über 20 Städte, darunter Miami (my-AM-ee), Dallas (DAL-lass), Houston (HYOO-ston) und sogar London und Tokyo. Ziel: Eine Million Fahrten pro Woche bis Ende 2026.
 
-In China geht Wuhan voran: Die Stadt will "die erste fahrerlose Stadt der Welt" werden. Bereits 3 von 100 Taxis dort sind Robotaxis von Baidus Apollo Go. Und hier ist das Interessante: Ein Robotaxi schafft bis zu 20 Fahrten pro Tag — menschliche Taxifahrer in der Stadt nur durchschnittlich 13,2. Baidu hat im Oktober 250.000 fahrerlose Fahrten pro Woche überschritten.
+In China geht Wuhan (Wu-han) voran: Die Stadt will "die erste fahrerlose Stadt der Welt" werden. Bereits 3 von 100 Taxis dort sind Robotaxis von Baidus Apollo Go. Und hier ist das Interessante: Ein Robotaxi schafft bis zu 20 Fahrten pro Tag — menschliche Taxifahrer in der Stadt nur durchschnittlich 13,2. Baidu hat im Oktober 250.000 fahrerlose Fahrten pro Woche überschritten.
 
 In den Fabriken ist die Revolution ebenfalls angekommen: Figures humanoide Roboter arbeiten bei BMW bereits volle 10-Stunden-Schichten autonom und erledigen echte Montagearbeiten. 1X nimmt 20.000-Dollar-Anzahlungen für Haushaltsroboter, die 2026 ausgeliefert werden sollen.
 
@@ -292,7 +292,7 @@ Am 2. August folgten die GPAI-Verpflichtungen: Anbieter von General-Purpose-AI m
 
 Die Strafen sind empfindlich: Bis zu 35 Millionen Euro oder 7% des globalen Jahresumsatzes für Verstöße gegen verbotene KI-Praktiken.
 
-Interessanterweise war Mistral AI, Europas KI-Champion, einer der schärfsten Kritiker des AI Acts. CEO Arthur Mensch war Teil einer Gruppe europäischer CEOs — zusammen mit ASML und Airbus — die Brüssel im Juli aufforderten, die Uhr für zwei Jahre anzuhalten, bevor die Schlüsselverpflichtungen in Kraft treten. Aber letztendlich unterschrieb auch Mistral den GPAI Code of Practice — zusammen mit Amazon, Anthropic, Google, Microsoft und OpenAI.
+Interessanterweise war Mistral AI, Europas KI-Champion, einer der schärfsten Kritiker des AI Acts. CEO Arthur Mensch (ar-TOOR MONSH) war Teil einer Gruppe europäischer CEOs — zusammen mit ASML und Airbus — die Brüssel im Juli aufforderten, die Uhr für zwei Jahre anzuhalten, bevor die Schlüsselverpflichtungen in Kraft treten. Aber letztendlich unterschrieb auch Mistral den GPAI Code of Practice — zusammen mit Amazon, Anthropic, Google, Microsoft und OpenAI.
 
 Trotz der Bedenken kam im September die größte KI-Finanzierungsrunde Europas: Mistral AI sammelte 1,7 Milliarden Euro ein bei einer Bewertung von 11,7 Milliarden Euro. Die Runde wurde von ASML angeführt, dem niederländischen Chip-Ausrüstungshersteller, mit 1,3 Milliarden Euro — was ihnen 11% der Anteile und damit die größte Aktionärsposition gibt.
 
